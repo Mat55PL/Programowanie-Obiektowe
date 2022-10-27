@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using _1zajecia.Services;
+using _1zajecia.Services.LAB2;
 
-namespace _1zajecia.Controllers
+namespace _1zajecia.Controllers.LAB2
 {
     [ApiController]
     [Route("[controller]/[action]")]

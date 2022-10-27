@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P3SNzSE/h5ckFBqJKs6Ak2Um3Fj6bp99tOVfpteaustS/WzZMFVj9azk0HABwtjfSb4LaHJO4nd91BQYFd2b+g==",
+  "dgSpecHash": "03KFjEnQAqQHHU0M1ce2G3cYTZba/BpcK7+KVZSg3LJt15v0XKC2liKDsUZ0f02NmocEVHaujmPW24O98Ez34Q==",
   "success": true,
-  "projectFilePath": "C:\\Git\\1zajecia\\1zajecia\\1zajecia.csproj",
+  "projectFilePath": "C:\\Git\\Programowanie-Obiektowe\\20.10\\1zajecia\\1zajecia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
