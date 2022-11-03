@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Programowanie-Obiektowe\\20.10\\1zajecia\\1zajecia.csproj": {}
+    "C:\\Git\\Programowanie-Obiektowe\\LABS\\1zajecia\\1zajecia.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Programowanie-Obiektowe\\20.10\\1zajecia\\1zajecia.csproj": {
+    "C:\\Git\\Programowanie-Obiektowe\\LABS\\1zajecia\\1zajecia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Programowanie-Obiektowe\\20.10\\1zajecia\\1zajecia.csproj",
+        "projectUniqueName": "C:\\Git\\Programowanie-Obiektowe\\LABS\\1zajecia\\1zajecia.csproj",
         "projectName": "1zajecia",
-        "projectPath": "C:\\Git\\Programowanie-Obiektowe\\20.10\\1zajecia\\1zajecia.csproj",
+        "projectPath": "C:\\Git\\Programowanie-Obiektowe\\LABS\\1zajecia\\1zajecia.csproj",
         "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Programowanie-Obiektowe\\20.10\\1zajecia\\obj\\",
+        "outputPath": "C:\\Git\\Programowanie-Obiektowe\\LABS\\1zajecia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
