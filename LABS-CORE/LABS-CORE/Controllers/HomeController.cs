@@ -8,14 +8,16 @@ namespace LABS_CORE.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger) //dependecy injection
         {
             _logger = logger;
         }
 
         public IActionResult Index()
         {
-            return View();
+            //throw new ArgumentNullException(); //test exception
+            _logger.LogInformation("Index page says hello");
+            return View("page1");
         }
 
         public IActionResult Privacy()
