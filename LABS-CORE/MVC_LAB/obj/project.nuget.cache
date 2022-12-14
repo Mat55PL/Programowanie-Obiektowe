@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "42b97/AQH9J4KUa79DEnmcZJulRDa+QnUPzOSFpskbtapjdyyhmGN+QlVFhgX66icwKXaAAPhbcsEEoGjN751Q==",
+  "dgSpecHash": "RXca2lHogmtHFyJafrzohyWgGDIjTeJE14LQm3JtjYnKh0en51qXngnAzJTpQJ2BWB7vsscHFBhyO44LVW19eA==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\MVC_LAB.csproj",
+  "projectFilePath": "G:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\MVC_LAB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mateu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

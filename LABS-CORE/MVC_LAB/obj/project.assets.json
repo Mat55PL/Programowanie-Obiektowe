@@ -4301,11 +4301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\MVC_LAB.csproj",
+      "projectUniqueName": "G:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\MVC_LAB.csproj",
       "projectName": "MVC_LAB",
-      "projectPath": "C:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\MVC_LAB.csproj",
+      "projectPath": "G:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\MVC_LAB.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\obj\\",
+      "outputPath": "G:\\Git\\Programowanie-Obiektowe\\LABS-CORE\\MVC_LAB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4380,7 +4380,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -32,10 +32,11 @@ namespace MVC_LAB.Controllers
             };
             foreach (GenderEnum gender in (GenderEnum[])Enum.GetValues(typeof(GenderEnum)))
             {
-                model.Gender.Add(new SelectListItem() {Text = gender.ToString(), Value = ((int)gender).ToString()});
+                model.Gender.Add(new SelectListItem() { Text = gender.ToString(), Value = ((int)gender).ToString() });
             }
             return View(model);
         }
+        
         public IActionResult CreateNewPerson(string name, string city, GenderEnum gender)
         {
             _personService.CreatePerson(name, city, gender);
@@ -47,11 +48,14 @@ namespace MVC_LAB.Controllers
             var person = _personService.GetPerson(id);
             var model = new EditPersonViewModel()
             {
-                Gender = new List<SelectListItem>()
+                Gender = new List<SelectListItem>(),
+                ID = person.ID,
+                Name = person.Name,
+                City = person.City
             };
             foreach (GenderEnum gender in (GenderEnum[])Enum.GetValues(typeof(GenderEnum)))
             {
-                model.Gender.Add(new SelectListItem() {Text = gender.ToString(), Value = ((int)gender).ToString(), Selected = person.Gender === gender});
+                model.Gender.Add(new SelectListItem() {Text = gender.ToString(), Value = ((int)gender).ToString(), Selected = person.Gender == gender});
             }
             return View(model);
         }
