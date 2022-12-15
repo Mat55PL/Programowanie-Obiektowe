@@ -1,3 +1,3 @@
 # Programowanie-Obiektowe
 
-Projekt MVC znajduje się osobnym branchu!
+Projekt MVC znajduje się osobnym branchu "web-app"!
